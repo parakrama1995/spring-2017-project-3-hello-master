@@ -1,0 +1,2 @@
+1000	I	Jack Jones	1200 South Central Ave	Sunset Dunes	CA	994562000	H	John Smith	100 West Shady Lane	Hemet	CA	991232000	P	Joan Smith
+2000	C	Sally Smith2000	C	Billie Smith2000	C	Bobbie Smith300	H	Fred Brown	700 North Ocean Drive	Long Beach	CA	94327300	P	Marcia Jones4000	H	Paul Sims	400 East Grand Blvd	Walnut	CA	921554000	C	Mary Sims4000	C	Doug Sims
